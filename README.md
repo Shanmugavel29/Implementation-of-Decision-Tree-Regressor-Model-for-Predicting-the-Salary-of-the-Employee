@@ -54,16 +54,27 @@ data.head():
 ![image](https://github.com/Naveensrinivasan07/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/119475891/bf268109-2c11-4344-bd04-34dbc04ae63a)
 <br>
 data.info():
+
 ![image](https://github.com/Naveensrinivasan07/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/119475891/aec7ab1b-a460-48d0-817d-79b8aecaf5f2)
+
 isnull() and sum():
+
 ![image](https://github.com/Naveensrinivasan07/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/119475891/98a398f7-16c5-44de-bd7a-a3c1589bb00d)
+
 data.head() for salary:
+
 ![image](https://github.com/Naveensrinivasan07/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/119475891/fd74a5ce-5d26-4d67-8a09-5ddac083b3b9)
+
 MSE value:
+
 ![image](https://github.com/Naveensrinivasan07/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/119475891/237f43c9-1073-4355-b7ba-0b0db25966fc)
+
 r2 value:
+
 ![image](https://github.com/Naveensrinivasan07/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/119475891/cc4a09c5-2f73-45c4-b237-7935dddb6409)
+
 data prediction:
+
 ![image](https://github.com/Naveensrinivasan07/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/119475891/d3612ae9-97a2-4ba9-9708-97aa30ce02c4)
 <br>
 ## Result:
